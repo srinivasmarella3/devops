@@ -1,0 +1,1 @@
+todays blog : https://devops-cicd.hashnode.dev/deploy-a-java-application-using-jenkins
